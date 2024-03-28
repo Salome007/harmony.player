@@ -48,7 +48,7 @@ class _HomePageState extends State<HomePage>{
           // get the playlist
           final List<Song> playlist = value.playlist;
 
-          //return list view UI
+          //return list view UIUI
           return ListView.builder(
             itemCount: playlist.length,
             itemBuilder: (context, index) {
