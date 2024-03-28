@@ -21,7 +21,43 @@ class PlaylistProvider extends ChangeNotifier {
       artistName: "Hindi Version",
       albumArtImagePath: "assets/image/alessia.png",
       audioPath: "audio/Hindi.mp3",
-    )    
+    ),    
+    // song 3
+    Song(
+      songName: "Rent Free", 
+      artistName: "6lack",
+      albumArtImagePath:"assets/image/black.png",
+      audioPath: "audio/Black.mp3",
+
+    ),
+    //song 4
+    Song(
+      songName: "Know Yourself", 
+      artistName: "Nasty C",
+      albumArtImagePath: "assets/image/nasty.png",
+      audioPath: "audio/Nasty c.mp3",
+    ),
+    //song 5
+    Song(
+      songName: "In my bag", 
+      artistName: "Justine Skye",
+      albumArtImagePath: "assets/image/justine.png",
+      audioPath: "audio/Justine.mp3",
+    ),
+    //song 6
+    Song(
+      songName: "Good Good", 
+      artistName: "Usher ft Summer Walker",
+      albumArtImagePath: "assets/image/usher.png",
+      audioPath: "audio/Usher.mp3"
+    ),
+    //song 7
+    Song(
+      songName: "CALYPSO", 
+      artistName: "Bryson Tiller",
+      albumArtImagePath: "assets/image/tiller.png",
+      audioPath: "audio/Tiller.mp3"
+    )
   ];
 
   // current song playing index
