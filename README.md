@@ -8,8 +8,11 @@ Harmony Player is a minimal music player designed for simplicity and ease of use
 **Features**
 
 Minimalistic design
+
 Dark and light mode switch
+
 Play, pause, next, and previous song controls
+
 Seek within a track
 
 **Installation**
@@ -24,7 +27,7 @@ Using Harmony Player is quite simple. Launch the app, navigate through your musi
 
 Flutter
 
-Audio player plugin
+Audio player package
 
 **Contributing**
 Harmony Player is an open-source project, and contributions are welcome! If you have ideas for new features, find bugs, or want to contribute in any other way, please feel free to submit a pull request or open an issue on GitHub.
