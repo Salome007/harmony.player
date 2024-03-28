@@ -12,7 +12,7 @@ class ThemeProvider extends ChangeNotifier{
   //is dark mode
   bool get isDarkMode => _themeData == darkMode;
 
-  //get theme
+  //get themee
   set themeData(ThemeData themeData){
     _themeData = themeData;
 
