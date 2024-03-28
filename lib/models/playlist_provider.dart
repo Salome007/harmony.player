@@ -60,7 +60,7 @@ class PlaylistProvider extends ChangeNotifier {
     )
   ];
 
-  // current song playing index
+  // current song playing index,
   int? _currentSongIndex;
 
   /*
