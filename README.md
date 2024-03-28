@@ -27,7 +27,7 @@ Using Harmony Player is quite simple. Launch the app, navigate through your musi
 
 Flutter
 
-Audio player package
+Audio player package framework
 
 **Contributing**
 
