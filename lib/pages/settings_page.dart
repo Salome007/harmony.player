@@ -23,7 +23,7 @@ class SettingsPage extends StatelessWidget {
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween, 
           children: [
-            //dark mode
+            //dark mode added
             const Text(
               "Dark Mode",
               style: TextStyle(fontWeight: FontWeight.bold), 
