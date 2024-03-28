@@ -3,6 +3,7 @@ class Song{
   final String artistName;
   final String albumArtImagePath;
   final String audioPath;
+  // final string
 
   Song({
     required this.songName,
