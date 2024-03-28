@@ -43,6 +43,7 @@ class MyDrawer extends StatelessWidget {
 
                 //navigate to settings page
                 Navigator.push(context, MaterialPageRoute(builder: (context) => const SettingsPage(),),);
+                // Edited version
               }
             ),
           ),
