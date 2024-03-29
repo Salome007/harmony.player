@@ -29,6 +29,9 @@ Flutter
 
 Audio player package framework
 
+Cupertino Icon Package
+
+
 **Contributing**
 
 Harmony Player is an open-source project, and contributions are welcome! If you have ideas for new features, find bugs, or want to contribute in any other way, please feel free to submit a pull request or open an issue on GitHub.
