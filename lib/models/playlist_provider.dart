@@ -34,14 +34,14 @@ class PlaylistProvider extends ChangeNotifier {
     Song(
       songName: "Know Yourself", 
       artistName: "Nasty C",
-      albumArtImagePath: "assets/image/nasty.png",
+      albumArtImagePath: "assets/image/nasty c.png",
       audioPath: "audio/Nasty c.mp3",
     ),
     //song 5
     Song(
       songName: "In my bag", 
       artistName: "Justine Skye",
-      albumArtImagePath: "assets/image/justine.png",
+      albumArtImagePath: "assets/image/Justine.png",
       audioPath: "audio/Justine.mp3",
     ),
     //song 6
@@ -55,7 +55,7 @@ class PlaylistProvider extends ChangeNotifier {
     Song(
       songName: "CALYPSO", 
       artistName: "Bryson Tiller",
-      albumArtImagePath: "assets/image/tiller.png",
+      albumArtImagePath: "assets/image/bryson.png",
       audioPath: "audio/Tiller.mp3"
     )
   ];
